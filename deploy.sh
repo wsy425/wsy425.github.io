@@ -24,3 +24,5 @@ git push -f https://github.com/wsy425/wsy425.github.io.git master
 # git push -f git@github.com:<USERNAME>/<REPO>.git master:gh-pages
 
 cd -
+
+git push  https://github.com/wsy425/wsy425.github.io.git main
