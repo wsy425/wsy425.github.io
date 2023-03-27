@@ -73,6 +73,7 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
         text: '更多',
         link: '/more/',
         items: [
+          { text: '大屏故障诊断系统', link: 'http://wenshuyuan.work:4900/' },
           { text: '面试', link: '/pages/cd11f8/' },
           { text: '收藏', link: '/pages/8384dd/' },
           { text: '实战技巧', link: '' },
