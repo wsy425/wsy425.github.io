@@ -45,6 +45,7 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
             text: '开发文档',
             items: [
               { text: 'ABP故障诊断系统开发文档', link: '/pages/196903/' },
+              { text: 'Electron-vue桌面端开发总结', link: '/pages/a1eaa9/' },
             ],
           }
         ],
